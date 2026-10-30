@@ -1,0 +1,30 @@
+body {
+    background-color: #EEEEEE; /* Fundo cinza claro */
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.comic-container {
+    max-width: 650px;
+    margin: 0 auto;
+    background: #FFFFFF; /* Caixa branca do painel */
+    padding: 15px;
+    border: 2px solid #000000;
+}
+
+.pesterlog {
+    text-align: left;
+    background-color: #F3F3F3;
+    border: 1px transparent;
+    padding: 10px;
+    margin: 15px 0;
+}
+
+.comando-avancar {
+    font-weight: bold;
+    font-size: 1.2em;
+    text-decoration: none;
+    color: #000000;
+}
